@@ -9,7 +9,7 @@ Görev: Google Books API veya herhangi başka bir API ile kullanıcıların kita
 
 Kullanıcının belirlemiş olduğu filtreler ve search Input değerine göre uygun seçenekle apiden alınan dataya göre listeleniyor...
 
-<img src="./src/img/2.jpg" alt="alt text" width="320" height="180">
+<img src="./src/img/2.jpg" alt="alt text" width="640" height="360">
 
 Kitap Detay Sayfası: 
 Kitaba ait üst/alt başlık yazar,basım yılı,sayfa sayısı ve hangi dilde yazıldığı bilgileri kullanıcıya veriliyor...
