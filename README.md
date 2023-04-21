@@ -14,11 +14,11 @@ Kullanıcının belirlemiş olduğu filtreler ve search Input değerine göre uy
 Kitap Detay Sayfası: 
 Kitaba ait üst/alt başlık yazar,basım yılı,sayfa sayısı ve hangi dilde yazıldığı bilgileri kullanıcıya veriliyor...
 
-<img src="./src/img/3.jpg" alt="alt text" width="320" height="180">
+<img src="./src/img/3.jpg" alt="alt text" width="640" height="360">
 
  Preview butonuyla  ilgili kitabın Google Kitaplar sayfasına yönlendirilmesi sağlanıyor
  
-<img src="./src/img/4.jpg" alt="alt text" width="320" height="180">
+<img src="./src/img/4.jpg" alt="alt text" width="640" height="360">
 
 
 Css olarak Tailwincss; API Google Books API kullanılmıştır
