@@ -7,7 +7,7 @@ Görev: Google Books API veya herhangi başka bir API ile kullanıcıların kita
 
 <img src="./src/img/1.jpg" alt="alt text" width="640" height="360">
 
-Kullanıcının belirlemiş olduğu filtreler ve search Input değerine göre uygun seçenekle apiden alınan dataya göre listeleniyor...
+Kullanıcının belirlemiş olduğu filtreler ve search Input değerine göre uygun seçenekler apiden alınan dataya göre listeleniyor...
 
 <img src="./src/img/2.jpg" alt="alt text" width="640" height="360">
 
