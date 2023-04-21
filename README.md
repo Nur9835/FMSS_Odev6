@@ -5,7 +5,7 @@ Görev: Google Books API veya herhangi başka bir API ile kullanıcıların kita
 
 Ödev Ana Sayfa Tasarımı :
 
-<img src="./src/img/1.jpg" alt="alt text" width="320" height="180">
+<img src="./src/img/1.jpg" alt="alt text" width="640" height="360">
 
 Kullanıcının belirlemiş olduğu filtreler ve search Input değerine göre uygun seçenekle apiden alınan dataya göre listeleniyor...
 
