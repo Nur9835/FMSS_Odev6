@@ -3,6 +3,8 @@ FMSS Bilişim Front-end Practicum Ödev-6
 
 Görev: Google Books API veya herhangi başka bir API ile kullanıcıların kitap veya yazar ismi yazarak kitap arayabileceği bir servis geliştirmek
 
+### Live : [https://nurpatikaodev6.netlify.app/]
+
 Ödev Ana Sayfa Tasarımı :
 
 <img src="./src/img/1.jpg" alt="alt text" width="640" height="360">
@@ -24,4 +26,3 @@ Kitaba ait üst/alt başlık yazar,basım yılı,sayfa sayısı ve hangi dilde y
 Css olarak Tailwincss; API Google Books API kullanılmıştır
 
 
-### Live : [https://nurpatikaodev6.netlify.app/]
